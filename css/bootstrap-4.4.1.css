@@ -55,7 +55,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  background-image: url('pattysmorestuff.png');	
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -389,7 +388,7 @@ h6, .h6 {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 600;
+  font-weight: 300;
 }
 
 .display-1 {
@@ -6862,23 +6861,23 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #ADADAD !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #dae0e5 !important;
+  background-color: #ADADAD !important;
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #4C4C4C !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #1d2124 !important;
+  background-color: #4C4C4C !important;
 }
 
 .bg-gray {
